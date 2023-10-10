@@ -12,7 +12,7 @@ Une série de test porté sur ruby en 3 catégories de difficultés. Ces tests v
 
 3. **Question 3 (addition)**
 - Résoudre l'addition suivante :
-```ruby
+```
 i = 5
 a = 2
 ```
@@ -21,7 +21,7 @@ Combien font `i + 5 * a` ?
 4. **Question 4 (incrémentation et décrémentation)**
 - Qu'est-ce que l'incrémentation et la décrémentation
 - Dans les lignes suivante, lesquels fonctionnent ?
-```ruby
+```
 1|   i = i + 1 // i = i - 1
 2|   i++ // i--
 3|   i+1 // i-1
