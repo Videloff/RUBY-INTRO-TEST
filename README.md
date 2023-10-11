@@ -12,7 +12,7 @@ Une série de test porté sur ruby en 3 catégories de difficultés. Ces tests v
 
 3. **Question 3 (addition)**
 - Résoudre l'addition suivante :
-```
+```ruby
 i = 5
 a = 2
 ```
@@ -21,7 +21,7 @@ Combien font `i + 5 * a` ?
 4. **Question 4 (incrémentation et décrémentation)**
 - Qu'est-ce que l'incrémentation et la décrémentation
 - Dans les lignes suivante, lesquels fonctionnent ?
-```
+```ruby
 1|   i = i + 1 // i = i - 1
 2|   i++ // i--
 3|   i+1 // i-1
@@ -37,6 +37,17 @@ Combien font `i + 5 * a` ?
 6. **Question 6 (boucles)**
 - Comment écrire une boucle `while`, `for`, et `each` ?
 
+7. **Question 7 (conditionnelle)**
+- Quelle est la syntaxe pour une structure conditionnelle "if, else if, else" en Ruby ?
+
+8. **Question 8 (opérateurs logiques)**
+- Expliquez les opérateurs logiques "&&", "||" et "!" en Ruby.
+
+9. **Question 9 (index et tableau)**
+- Dans mon tableau `my_tab` comment imprimmer la première et la 3eme valeurs du tableau dans le terminal ?
+
+10. **Question 10 (input utilisateur)**
+- Comment obtenir une entrée utilisateur dans Ruby et l'affecter à une variable ?
 ## Partie "Standard" :
 
 1. **Question 1 (Manipulation d'array)**
@@ -48,6 +59,10 @@ Combien font `i + 5 * a` ?
 
 3. **Question 3 (méthodes)**
 - Dans les codes suivant, il y a des trous et des erreurs, lesquels ?
+
+4. **Question 4 (modulo)**
+- Qu'est-ce qu'un modulo et à quoi ça peut servir dans un code ?
+
 ```ruby
 def my_fonction(input_str)
     puts input_str
@@ -81,10 +96,7 @@ my_fonction() = result
 puts result
 ```
 
-4. **Question 4 (modulo)**
-- Qu'est-ce qu'un modulo et à quoi ça peut servir dans un code ?
-
-4. **Question 4 (prototypage et spec)**
+5. **Question 5 (prototypage et spec)**
 - Dans le code suivant, qu'elle est le prototypage de la méthode appelé pour ce test ?
 
 ```ruby
@@ -95,7 +107,21 @@ describe '#size_compare' do
 end
 ```
 
+6. **Question 6 (travail avec les chaînes de caractères)**
+- Comment inverser une chaîne de caractères en Ruby ?
+
+7. **Question 7 (Manipulation de chaînes de caractères)**
+- Comment concaténer deux chaînes de caractères en Ruby ?
+
+8. **Question 8 (Manipulation de fichiers)**
+- Comment dire à un fichier ruby qu'il a besoin d'un autre fichier pour fonctionner ?
+
+9. **Question 9 (envoi de variable entre les méthodes)**
+- Comment éxploiter une variable d'une méthode à une autre (sans variable globale) ?
 ## Partie "Avancée" :
 
 1. **Question 1 (les hash)**
 - Qu'elle est la différence entre un hash et un array ?
+
+2. **Question 2 (Gemmes)**
+- Qu'est-ce qu'une gemme Ruby, et comment l'installer et l'utiliser dans un projet Ruby ?
