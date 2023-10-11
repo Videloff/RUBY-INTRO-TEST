@@ -1,7 +1,10 @@
 
 # RUBY-INTRO-TEST-THP
 
+<img src="https://www.thehackingproject.org/packs/media/images/logo/20210910-THP-Logo_color_transparent-7bcda2eebdfc9e089cfe84bda563a4e7.png" style="height:100px">
+
 Une série de tests portée sur ruby en 3 catégories de difficultés. Ces tests vous permettront de voir les acquis que vous avez engrangé durant c'est deux semaines de ruby.
+
 ## Partie "Base" :
 
 1. **Question 1 (variable ruby)**
