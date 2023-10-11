@@ -84,9 +84,6 @@ la variable est vide ?
 3. **Question 3 (méthodes)**
 - Dans les codes suivant, il y a des trous et des erreurs, lesquels ?
 
-4. **Question 4 (modulo)**
-- Qu'est-ce qu'un modulo et à quoi ça peut servir dans un code ?
-
 ```ruby
 def my_fonction(input_str)
     puts input_str
@@ -119,6 +116,9 @@ end
 my_fonction() = result
 puts result
 ```
+
+4. **Question 4 (modulo)**
+- Qu'est-ce qu'un modulo et à quoi ça peut servir dans un code ?
 
 5. **Question 5 (prototypage et spec)**
 - Dans le code suivant, qu'elle est le prototypage de la méthode appelé pour ce test ?
