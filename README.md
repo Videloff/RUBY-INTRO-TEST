@@ -1,7 +1,7 @@
 
-# RUBY-INTRO-TEST
+# RUBY-INTRO-TEST-THP
 
-Une série de test porté sur ruby en 3 catégories de difficultés. Ces tests vous permettrons de voir les acquis que vous avez engrenger durant c'est deux semaines de ruby.
+Une série de tests portée sur ruby en 3 catégories de difficultés. Ces tests vous permettront de voir les acquis que vous avez engrangé durant c'est deux semaines de ruby.
 ## Partie "Base" :
 
 1. **Question 1 (variable ruby)**
@@ -48,6 +48,24 @@ Combien font `i + 5 * a` ?
 
 10. **Question 10 (input utilisateur)**
 - Comment obtenir une entrée utilisateur dans Ruby et l'affecter à une variable ?
+
+11. **Question 11 (méthodes de conversion de types)**
+- Quelles méthodes peut-on utiliser pour convertir un nombre en chaîne de caractères et vice versa en Ruby ?
+
+12. **Question 12 (commentaires)**
+- Comment ajouter un commentaire en Ruby ? À quoi servent les commentaires dans le code ?
+
+13. **Question 13 (méthodes de classe)**
+- Quelles sont les méthodes de classe pour manipuler les chaînes de caractères en Ruby, telles que :
+la longueur d'une chaine ?
+le type d'une variable ?
+la variable est vide ?
+
+14. **Question 14 (opérateurs de comparaison)**
+- Expliquez les opérateurs de comparaison (==, !=, <, >, <=, >=) en Ruby.
+
+15. **Question 15 (cas de saisie)**
+- Comment gérer des cas définits suis à une saisie utilisateur ? (ex: touche A, B, C ...)
 ## Partie "Standard" :
 
 1. **Question 1 (Manipulation d'array)**
@@ -123,5 +141,14 @@ end
 1. **Question 1 (les hash)**
 - Qu'elle est la différence entre un hash et un array ?
 
-2. **Question 2 (Gemmes)**
-- Qu'est-ce qu'une gemme Ruby, et comment l'installer et l'utiliser dans un projet Ruby ?
+2. **Question 2 (Gems)**
+- Qu'est-ce qu'une gem Ruby ? comment l'installer et l'utiliser dans un projet Ruby ?
+
+3. **Question 3 (conditions ternaires)**
+- Quelle est la syntaxe pour une condition ternaire en Ruby ?
+
+4. **Question 4 (mapping)**
+- A quoi sert la méthode de classe .map() ? Comment l'appliquer sur des key,value dans un hash ?
+
+6. **Question 6 (Rubocop)**
+- Qu'est-ce que Rubocop et à quoi sert-il ?
