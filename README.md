@@ -100,6 +100,7 @@ end
 
 def perform
     my_fonction()
+    puts input_str
 end
 
 perform()
