@@ -26,7 +26,7 @@ Combien font `i + 5 * a` ?
 
 4. **Question 4 (incrémentation et décrémentation)**
 - Qu'est-ce que l'incrémentation et la décrémentation
-- Dans les lignes suivante, lesquels fonctionnent ?
+5. Dans les lignes suivante, lesquels fonctionnent ?
 ```ruby
 1|   i = i + 1 // i = i - 1
 2|   i++ // i--
@@ -37,41 +37,42 @@ Combien font `i + 5 * a` ?
 
 ```
 
-5. **Question 5 (type de variable)**
+6. **Question 5 (type de variable)**
 - Qu'est-ce qu'un Array ?
 
-6. **Question 6 (boucles)**
-- Comment écrire une boucle `while`, `for`, et `each` ?
+7. **Question 6 (boucles)**
+- Comment écrire une boucle `while`, `for` ou `each` ?
 
-7. **Question 7 (conditionnelle)**
+8. **Question 7 (conditionnelle)**
 - Quelle est la syntaxe pour une structure conditionnelle "if, else if, else" en Ruby ?
 
-8. **Question 8 (opérateurs logiques)**
-- Expliquez les opérateurs logiques "&&", "||" et "!" en Ruby.
+9. **Question 8 (opérateurs logiques)**
+- Expliquez les opérateurs logiques "&&", "||" et "!".
 
-9. **Question 9 (index et tableau)**
-- Dans mon tableau `my_tab` comment imprimmer la première et la 3eme valeurs du tableau dans le terminal ?
+10. **Question 9 (index et tableau)**
+- Dans mon tableau `my_tab` comment imprimer la première et la 3eme valeurs du tableau dans le terminal avec un index ?
 
-10. **Question 10 (input utilisateur)**
-- Comment obtenir une entrée utilisateur dans Ruby et l'affecter à une variable ?
+11. **Question 10 (input utilisateur)**
+- Comment obtenir une saisie terminal de l'utilisateur et l'affecter à une variable ?
 
-11. **Question 11 (méthodes de conversion de types)**
+12. **Question 11 (méthodes de conversion de types)**
 - Quelles méthodes peut-on utiliser pour convertir un nombre en chaîne de caractères et vice versa en Ruby ?
 
-12. **Question 12 (commentaires)**
+13. **Question 12 (commentaires)**
 - Comment ajouter un commentaire en Ruby ? À quoi servent les commentaires dans le code ?
 
-13. **Question 13 (méthodes de classe)**
+14. **Question 13 (méthodes de classe)**
 - Quelles sont les méthodes de classe pour manipuler les chaînes de caractères en Ruby, telles que :
 la longueur d'une chaine ?
 le type d'une variable ?
 la variable est vide ?
 
-14. **Question 14 (opérateurs de comparaison)**
-- Expliquez les opérateurs de comparaison (==, !=, <, >, <=, >=) en Ruby.
+15. **Question 14 (opérateurs de comparaison)**
+- Expliquez les opérateurs de comparaison (==, !=, <, >, <=, >=).
 
-15. **Question 15 (cas de saisie)**
-- Comment gérer des cas définits suis à une saisie utilisateur ? (ex: touche A, B, C ...)
+16. **Question 15 (cas de saisie)**
+- Comment gérer des cas précis suite à une saisie utilisateur ? (ex: o pour quitter; 1 pour afficher une liste; ...)
+
 ## Partie "Standard" :
 
 1. **Question 1 (Manipulation d'array)**
@@ -122,7 +123,7 @@ puts result
 - Qu'est-ce qu'un modulo et à quoi ça peut servir dans un code ?
 
 5. **Question 5 (prototypage et spec)**
-- Dans le code suivant, qu'elle est le prototypage de la méthode appelé pour ce test ?
+- Dans le code suivant, quel est le prototypage de la méthode appelé pour ce test ?
 
 ```ruby
 describe '#size_compare' do
@@ -136,20 +137,22 @@ end
 - Comment inverser une chaîne de caractères en Ruby ?
 
 7. **Question 7 (Manipulation de chaînes de caractères)**
-- Comment concaténer deux chaînes de caractères en Ruby ?
+- Comment concaténer (mettre bout à bout) deux chaînes de caractères en Ruby ?
 
 8. **Question 8 (Manipulation de fichiers)**
-- Comment dire à un fichier ruby qu'il a besoin d'un autre fichier pour fonctionner ?
+- Comment dire à un fichier Ruby qu'il a besoin d'un autre fichier pour fonctionner ?
+- Comment le faire avec une Gem ?
 
 9. **Question 9 (envoi de variable entre les méthodes)**
-- Comment éxploiter une variable d'une méthode à une autre (sans variable globale) ?
+- Comment récupérer une variable d'une méthode à une autre (sans variable globale) ?
+
 ## Partie "Avancée" :
 
 1. **Question 1 (les hash)**
 - Qu'elle est la différence entre un hash et un array ?
 
 2. **Question 2 (Gems)**
-- Qu'est-ce qu'une gem Ruby ? comment l'installer et l'utiliser dans un projet Ruby ?
+- Qu'est-ce qu'une gem Ruby ? comment l'installer dans un projet Ruby ?
 
 3. **Question 3 (conditions ternaires)**
 - Quelle est la syntaxe pour une condition ternaire en Ruby ?
@@ -157,5 +160,5 @@ end
 4. **Question 4 (mapping)**
 - A quoi sert la méthode de classe .map() ? Comment l'appliquer sur des key,value dans un hash ?
 
-6. **Question 6 (Rubocop)**
+5. **Question 5 (Rubocop)**
 - Qu'est-ce que Rubocop et à quoi sert-il ?
